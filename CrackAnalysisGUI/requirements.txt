@@ -17,7 +17,7 @@ icc_rt=2017.0.4=h97af966_0
 icu=58.2=vc14hc45fdbb_0
 imageio=2.2.0=py35hcd4b9a4_0
 intel-openmp=2018.0.0=hcd89f80_7
-jinja2=2.10=py35hdf652bb_0
+jinja2>2.10=py35hdf652bb_0
 jpeg=9b=vc14h4d7706e_1
 libpng=1.6.32=vc14h5163883_3
 libtiff=4.0.8=vc14h04e2a1e_10
